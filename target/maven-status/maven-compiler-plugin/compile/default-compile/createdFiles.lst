@@ -1,0 +1,7 @@
+br\com\fo2app\springboot\config\MongoConfiguration.class
+br\com\fo2app\springboot\dao\PersonRepository.class
+br\com\fo2app\springboot\service\PersonService.class
+br\com\fo2app\springboot\model\Person.class
+br\com\fo2app\springboot\rest\PersonResource.class
+br\com\fo2app\springboot\Application.class
+br\com\fo2app\springboot\config\SwaggerConfiguration.class
