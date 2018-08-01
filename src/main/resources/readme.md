@@ -23,7 +23,7 @@ With Maven...
 
 ## Tests
 
-Execute tests with JUnit  
+* **mvn clean spring-boot:start**  
 
 ## Deploy
 
@@ -31,16 +31,16 @@ Execute tests with JUnit
 
 To deploy with maven
 
-Application: [http://localhost:9090/starwars/api](http://localhost:9090/starwars/api)
+Application: [http://localhost:9009/springboot/api](http://localhost:9009/springboot/api)
 
-Swagger: [http://localhost:9090/starwars/api/swagger-ui.html](http://localhost:9090/starwars/api/swagger-ui.html)  
+Swagger: [http://localhost:9009/springboot/api/swagger-ui.html](http://localhost:9009/springboot/api/swagger-ui.html)  
 
 ## Architecture
 
 * [SpringBoot](https://docs.spring.io/spring-boot/docs/1.5.3.RELEASE/reference/htmlsingle/)
-* [Maven](https://maven.apache.org/) - Injeção de Dependências
-* [Swagger2](https://swagger.io/docs/) - Documentação da API
-* [MongoDB](https://docs.mongodb.com) - Base de Dados NoSQL
+* [Maven](https://maven.apache.org/) - Dependency Injection
+* [Swagger2](https://swagger.io/docs/) - Api Docs
+* [MongoDB](https://docs.mongodb.com) - NoSQL DataBase
 
 ## Authors
 
