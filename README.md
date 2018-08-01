@@ -23,7 +23,7 @@ With Maven...
 
 ## Tests
 
-Execute tests with JUnit  
+* **mvn install** 
 
 ## Deploy
 
@@ -31,9 +31,9 @@ Execute tests with JUnit
 
 To deploy with maven
 
-Application: [http://localhost:9090/starwars/api](http://localhost:9090/starwars/api)
+Application: [http://localhost:9009/springboot/api](http://localhost:9009/springboot/api)
 
-Swagger: [http://localhost:9090/starwars/api/swagger-ui.html](http://localhost:9090/starwars/api/swagger-ui.html)  
+Swagger: [http://localhost:9009/springboot/api/swagger-ui.html](http://localhost:9009/springboot/api/swagger-ui.html)  
 
 ## Architecture
 
